@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top{
+    height: 65vh;
+    width: 100%;
+    position: relative;
+}
+.top img{
+    width: 100%;
+    height: 65vh;
+}
+.top h1{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    font-size: 100px;
+    font-family: cursive;
+    color: whitesmoke;
+}
+.text{
+    margin: 20px 20px;
+    justify-self:center;
+    align-items: center;
+}
+.text .vission img{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+       
+}
+.text .vission h1{
+    text-align: center;
+}
+.text .vission p{
+    font-size: 20px;
+    line-height: 2;
+}
+.text .mission img{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+       
+}
+.text .mission h1{
+    text-align: center;
+}
+.text .mission p{
+    font-size: 20px;
+    line-height: 2;
+}
+
+.text .inter-exp h1{
+    text-align: center;
+}
+.text .inter-exp p{
+    font-size: 20px;
+    line-height: 2;
+}
+.text .founders h1{
+    text-align: center;
+}
+.text .founders img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+.text .founders h2{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.text .founders p{
+    font-size: 20px;
+    line-height: 2;
+}
+.text .current-focus h1{
+    text-align: center;
+}
+.text .current-focus p{
+    font-size: 20px;
+    line-height: 2;
+}
+.text .bamboo h1{
+    text-align: center;
+}
+.text .bamboo p{
+    font-size: 20px;
+    line-height: 2;
+}
